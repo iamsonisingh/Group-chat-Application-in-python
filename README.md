@@ -1,2 +1,2 @@
-# Group-chat-Application-in-python-GUI-Application-
+# Group-chat-Application-in-python
 Developed a secure text-based chat application using Tkinter, built on client/server model in which a user sends a message on the application which is shown to every other user connected to the server. We used the concept of Socket Programming which is used to send messages across a network. During this project, I have achieved learning about Tkinter, SQlite3, multithreading, socket programming, messagebox, Json, pandas and others python libraries.
